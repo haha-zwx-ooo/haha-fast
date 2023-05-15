@@ -1,0 +1,10 @@
+# 开发环境配置
+spring:
+  profiles: dev
+
+
+
+---
+# 生产环境配置
+spring:
+  profiles: prod
